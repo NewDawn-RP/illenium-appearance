@@ -75,6 +75,7 @@ shared_scripts {
   "locales/locales.lua",
   "locales/ar.lua",
   "locales/bg.lua",
+  "locales/cs.lua",
   "locales/de.lua",
   "locales/en.lua",
   "locales/es-ES.lua",
@@ -83,7 +84,9 @@ shared_scripts {
   "locales/it.lua",
   "locales/nl.lua",
   "locales/pt-BR.lua",
-  "locales/ro-RO.lua",  
+  "locales/ro-RO.lua",
+  "locales/id.lua",
+  "@ox_lib/init.lua"
 }
 
 files {
